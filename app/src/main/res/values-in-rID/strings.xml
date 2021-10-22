@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tasbih</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="done" translatable="false">SELESAI</string>
+    <string name="null_counter" translatable="false">999999</string>
+    <string name="loading" translatable="false">Memuat</string>
+    <string name="not_null">Silakan isi kolom ini!</string>
+    <string name="not_zero">Silahkan isi dengan nilai lebih dari 0!</string>
+    <string name="max_limit">Nilai batas maksimum adalah 9999999!</string>
+    <string name="sound_on">Suara Hidup</string>
+    <string name="sound_off">Suara Mati</string>
+    <string name="vibrate_on">Getar Hidup</string>
+    <string name="vibrate_off">Getar Mati</string>
+    <string name="counter_reset">Penghitung Direset</string>
+    <string name="limit_set">Batas Diset</string>
+</resources>

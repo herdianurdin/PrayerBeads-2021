@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Prayer Beads</string>
+    <string name="ok">OK</string>
+    <string name="done">DONE</string>
+    <string name="null_counter">999999</string>
+    <string name="loading">Loading</string>
+    <string name="not_null">Please fill out this field!</string>
+    <string name="not_zero">Please fill with value more than 0!</string>
+    <string name="max_limit">The maximum limit value is 9999999!</string>
+    <string name="sound_on">Sound On</string>
+    <string name="sound_off">Sound Off</string>
+    <string name="vibrate_on">Vibrate On</string>
+    <string name="vibrate_off">Vibrate Off</string>
+    <string name="counter_reset">Counter Reset</string>
+    <string name="limit_set">Limit Set</string>
+</resources>
