@@ -5,3 +5,6 @@ Aplikasi tasbih digitial android, dibuat untuk mempermudah menghitung jumlah tas
 
 ## Aplikasi
 [Download](https://drive.google.com/file/d/1dHpevhkFJHNZ78-Lg7UGoO_i1Oy-EXIT/view?usp=sharing)
+
+## Screenshot
+![PrayerBeads](https://cdn.statically.io/gh/Herdianurdin/PrayerBeads-2021/main/prayerbeads.png)
