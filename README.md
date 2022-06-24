@@ -1,10 +1,13 @@
 ## PrayerBeads
-Aplikasi tasbih digitial android, dibuat untuk mempermudah menghitung jumlah tasbih yang ingin dilakukan.
 
-[Demo Video](https://drive.google.com/file/d/1BW8SE5njCPVZQLrJ5C1TA0k1-GZKYqRw/view?usp=sharing)
+![Screenshot](screenshot.webp)
 
-## Aplikasi
-[Download](https://drive.google.com/file/d/1dHpevhkFJHNZ78-Lg7UGoO_i1Oy-EXIT/view?usp=sharing)
+Android-based digital tasbih, which was created to help count you in dhikr. You can feel the tapping sensation by vibration or sound.
 
-## Screenshot
-![PrayerBeads](https://cdn.statically.io/gh/Herdianurdin/PrayerBeads-2021/main/prayerbeads.png)
+### Built With
+
+[<img src='kotlin.svg' width='100' />](https://kotlinlang.org/)
+
+## License
+
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
