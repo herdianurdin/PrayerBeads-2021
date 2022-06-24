@@ -1,4 +1,4 @@
-## PrayerBeads
+## About Project
 
 ![Screenshot](screenshot.webp)
 
